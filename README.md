@@ -3,7 +3,7 @@
    <!-- <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWV2M2x2c2cybjJzYmFicGs4ZjdzZ2lxaG4zeGlyb2Vkb25wd2xqciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/I9zdr0n71QcXqbIh7K/giphy.gif" width="250"/> -->
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJ4MThnbWNkMGtkNmp0ejE1emZndXc0MDE5YW5objZoYmozM3BvaCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/W61JIcgzYPX47pOgR8/giphy.gif" width="250"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/innocentia-handani">
+    <a href="https://www.linkedin.com/in/innocentia-handani/">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.instagram.com/innocentia_h">
